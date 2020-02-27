@@ -11,7 +11,7 @@ Research Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513719
 - Computing Methodology eJournal
 
 #### Cite as:
-```python
+```
 Kumar, Ravin, A Theoretical Model for Artificial Learning, Memory Management and Decision Making System (July 2, 2019). 
 Kumar, R., 2019. A Theoretical Model For Artificial Learning, Memory Management And Decision Making System. 
 arXiv preprint arXiv:1907.04698.. Available at SSRN: https://ssrn.com/abstract=3513719 
