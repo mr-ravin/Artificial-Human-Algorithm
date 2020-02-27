@@ -19,4 +19,4 @@ or http://dx.doi.org/10.2139/ssrn.3513719
 ```
 #### Earlier Preprints:
 - OSI Preprints: https://osf.io/preprints/b4wsr/
-- Cornell University Library, arxiv.org: [arXiv](https://arxiv.org/abs/1907.04698)
+- Cornell University Library, arxiv.org: https://arxiv.org/abs/1907.04698
