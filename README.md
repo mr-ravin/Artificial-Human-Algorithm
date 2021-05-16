@@ -5,18 +5,24 @@ Human beings are considered as the most intelligent species on Earth. The abilit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Elsevier-SSRN eJournals:
-Research Paper Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513719
-- Electrical Engineering eJournal.
-- Computing Methodology eJournal
+#### Paper Title:
+
+#### Publication: 
+
+#### Publication Journal: 
+
+#### Publication House: 
+
+#### Publication link: 
 
 #### Cite as:
 ```
-Kumar, Ravin, A Theoretical Model for Artificial Learning, Memory Management and Decision Making System (July 2, 2019). 
-Kumar, R., 2019. A Theoretical Model For Artificial Learning, Memory Management And Decision Making System. 
-arXiv preprint arXiv:1907.04698.. Available at SSRN: https://ssrn.com/abstract=3513719 
-or http://dx.doi.org/10.2139/ssrn.3513719 
+
 ```
+
+#### Doi: 
+
 #### Earlier Preprints:
+- SSRN Preprints: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3513719
 - OSI Preprints: https://osf.io/preprints/b4wsr/
 - Cornell University Library, arxiv.org: https://arxiv.org/abs/1907.04698
