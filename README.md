@@ -9,7 +9,7 @@ Human beings are considered as the most intelligent species on Earth. The abilit
 
 #### Publication: 31<sup>st</sup> May, 2021.
 
-#### Publication Journal: GAEE Journal For Aspiring Economists
+#### Publication Journal: GAEE Journal For Aspiring Economists (GJAE)
 
 #### Publication House: Global Association of Economics Education
 
